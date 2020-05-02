@@ -30,10 +30,13 @@ mex gettable.cpp
 
 mex settable.cpp
 
+
 Instructions for running the examples:
 
 
 -Download the examples and unzip them.
+
+-Copy simExtSimulink.dll into CoppeliaSim folder :"C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu"
 
 
 -Open matlab. Make sure the matlab working path is inside the unzipped folder. Or add the unzipped folder to the matlab path.
@@ -45,7 +48,7 @@ Instructions for running the examples:
 Coppelia sim should start automatically.
 
 
-The "Coppelia Sim Open / Play / Stop" block is responsible for opening and running the simulation in CoppeliaSim. In case of error, delete this block, open the example "examplexx.ttt" and run the simulation manually.
+The "CoppeliaSim Open / Play / Stop" block is responsible for opening and running the simulation in CoppeliaSim. In case of error, delete this block, open the example "examplexx.ttt" and run the simulation manually.
 
 
 
