@@ -1,7 +1,7 @@
 # CoppeliaSim-Simulink-Communication
 Plugin and blocks to communicate the CoppeliaSim robotic simulator with the Matlab Simulink environment.
 
-Instructions for compiling plugin in Windows:
+Instructions for compiling plugin in Windows:;
 -Download the source code.
 -Copy the unzipped folder into the "programming" directory within the CoppeliaSim installation path ("C: \ Program Files \ CoppeliaRobotics \ CoppeliaSimEdu \ programming").
 -Open the .pro row and configure the project using the same version of the CoppeliaSim QtKit.
