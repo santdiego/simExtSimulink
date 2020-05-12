@@ -12,6 +12,7 @@ Plugin and blocks to communicate the CoppeliaSim robotic simulator with the Matl
 
 ## Instructions for compiling Simulink s-functions:
 
+Before continuing, make sure you have a compiler [compatible with your Matlab version](https://www.mathworks.com/support/requirements/supported-compilers.html). To check and configure the available compilers run `mex -setup`.
 
 1. Open Matlab and place into unziped folder. 
 2. run the following commands:
